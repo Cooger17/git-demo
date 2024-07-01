@@ -1,3 +1,5 @@
 Ceci est juste un fichier main.txt pour la revision de Git
 
 More text to test git commands
+
+Juste more text to test git branches
